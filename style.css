@@ -1,0 +1,10 @@
+@media  (max-width: 600px){
+    #nav-bar {
+        background-color: brown;
+    }
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
